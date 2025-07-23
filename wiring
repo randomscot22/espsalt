@@ -1,0 +1,21 @@
+Wiring Diagram
+==============
+
+Sensor
+------
+XSHUT  ORANGE
+GPIO1  -
+SDA    YELLOW
+SCL    WHITE
+GND    BLACK
+VIN    RED
+
+ESP32
+-----
+IO0   WHITE     SCL
+IO1   YELLOW    SDA
+IO2   ORANGE    XSHUT
+
+IO18  WHITE     SCL    
+IO19  ORANGE    SDA
+IO20  YELLOW    XSHUT
