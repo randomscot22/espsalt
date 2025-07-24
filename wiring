@@ -10,6 +10,15 @@ SCL    WHITE
 GND    BLACK
 VIN    RED
 
+
+New ESP32
+---------
+
+IO0   WHITE     SCL
+IO1   YELLOW    SDA
+IO2   ORANGE    XSHUT
+
+
 ESP32
 -----
 IO0   WHITE     SCL
